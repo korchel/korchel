@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Elena
 
+<a href='https://www.t.me/korchel' target='_blank'>
+  <img     src='https://camo.githubusercontent.com/61b5bf9fc193c43a78001dce592ee64a0e042238b3ae27ee83833b75e610b427/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465'/>
+</a>
 <!--
 **korchel/korchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
